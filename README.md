@@ -1,5 +1,8 @@
 # TTSSpeaker
 
+<p align="center">
+  <img src="./icon.ico" alt="TTSSpeaker Logo" width="128">
+</p>
 A GUI frontend for IndexTTS2 with voice cloning, emotion control, and virtual audio device output.
 
 ## Features
